@@ -1,1 +1,1 @@
-# Linear_OptimiZation-TED
+# Linear_Optimization-TED
